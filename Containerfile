@@ -7,7 +7,7 @@ LABEL com.github.containers.toolbox="true" \
 
 COPY extra-packages /
 RUN apt update && \
-    apt upgrade && \
+    apt upgrade -y && \
     grep -v '^#' /extra-packages | xargs apt install -y
 RUN rm /extra-packages
 
