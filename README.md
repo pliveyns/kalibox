@@ -3,6 +3,7 @@
 ## Description
 
 Customized toolbox/distrobox container for Kali Linux Rolling.
+
 Based on Universal Blue's boxkit: https://github.com/ublue-os/boxkit
 
 ### Create Box
@@ -25,6 +26,10 @@ Use `chezmoi` to pull down your dotfiles and set up git sync.
 ### Make your own
 
 The user experience is much nicer if you [set your terminal open right in the container](https://distrobox.privatedns.org/useful_tips/#using-distrobox-as-main-cli) and is the intended experience. 
+
+Check out the amazing projects    
+Universal Blue: https://universal-blue.org/    
+Blue Build: https://blue-build.org/
 
 ## Verification
 
