@@ -1,10 +1,10 @@
 zsh
 #age
-atuin
+#atuin         # not on Kali Linux
 btop
 bat
 #chezmoi
-clipboard
+#clipboard     # not on Kali Linux
 #cosign
 #dbus-x11
 #direnv
@@ -17,7 +17,7 @@ fzf
 #make
 #micro
 ncdu
-ncurses
+#ncurses       # not on Kali Linux
 neofetch
 neovim
 #npm
