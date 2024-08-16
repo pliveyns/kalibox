@@ -1,32 +1,16 @@
 zsh
-#age
 #atuin         # not on Kali Linux
 btop
 bat
-#chezmoi
-#clipboard     # not on Kali Linux
-#cosign
-#dbus-x11
-#direnv
 eza
-#ffmpeg
 fzf
-#github-cli
-#helix
-#just
-#make
-#micro
-ncdu
-#ncurses       # not on Kali Linux
 neofetch
+fastfetch
 neovim
-#npm
-#plocate
 python3
 ripgrep
-speedtest-cli
-#starship
-#vimdiff
-wl-clipboard
-#zellij
 zstd
+arp-scan
+nmap
+arpwatch
+netdiscover
