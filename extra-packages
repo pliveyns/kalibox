@@ -1,5 +1,5 @@
 zsh
-#atuin         # not on Kali Linux
+atuin
 btop
 bat
 eza
@@ -12,5 +12,8 @@ ripgrep
 zstd
 arp-scan
 nmap
+arpwatch
+netdiscover
+speedtest-cli
 arpwatch
 netdiscover
