@@ -12,6 +12,8 @@ ripgrep
 zstd
 arp-scan
 nmap
+ndiff
+ncat
 arpwatch
 netdiscover
 speedtest-cli
