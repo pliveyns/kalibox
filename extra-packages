@@ -12,6 +12,7 @@ ripgrep
 zstd
 arp-scan
 nmap
+zenmap
 ndiff
 ncat
 arpwatch
